@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37988363942",
+    "project_id": "senacfood-cedd0",
+    "storage_bucket": "senacfood-cedd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37988363942:android:61b794237c3ad6c51d4e67",
+        "android_client_info": {
+          "package_name": "com.senacfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37988363942-sn9h7bhd7j0h01lpuuoe20g3h0jfg3kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmwH-89eBYKYwlqxi0IT0aw1ssWjGFQbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37988363942-sn9h7bhd7j0h01lpuuoe20g3h0jfg3kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
